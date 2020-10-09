@@ -11,4 +11,5 @@ module.exports = {
       .set('@assets', resolve('src/assets'))
       // 这里只写了两个个，你可以自己再加，按这种格式.set('', resolve(''))
   }
+
 }
